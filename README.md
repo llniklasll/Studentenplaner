@@ -1,3 +1,3 @@
 # Studentenplaner
 
-Startseit:
+Startseite:
